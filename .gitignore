@@ -1,0 +1,13 @@
+/MyApplication2/*.iml
+/MyApplication2/.gradle
+/MyApplication2/local.properties
+/MyApplication2/.idea/caches
+/MyApplication2/.idea/libraries
+/MyApplication2/.idea/modules.xml
+/MyApplication2/.idea/workspace.xml
+/MyApplication2/.idea/navEditor.xml
+/MyApplication2/.idea/assetWizardSettings.xml
+/MyApplication2/.DS_Store
+/MyApplication2/build
+/MyApplication2/captures
+/MyApplication2/.externalNativeBuild
